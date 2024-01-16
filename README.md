@@ -21,7 +21,7 @@ git branch -M main
 
 git remote add origin https://github.com/Ma7en/Classy-Weather-1.git
 
-git push origin main
+git push -u origin main
 
 ## <!-- upload files to firebase -->
 
