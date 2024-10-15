@@ -1,3 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /wp-admin
+Allow: /
+
+Sitemap: https://your-site.com/sitemap.xml
